@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankan Ghosh. Master's student at University of Zurich, Switzerland.
-- 👀 I’m interested in Distributed Systems, Cloud Architecture and Blockchains.
+- 👀 I’m interested in Distributed Data Processing, Cloud Architecture and Blockchains.
 - 🌱 I’m currently learning IaC, Terraform/AWS CDK, K8's.
 - 💞️ I’m looking to collaborate on cloud infrastucture projects.
 - 📫 ankan0011@live.com/Discord : Ankan#7406 
