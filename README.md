@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankan Ghosh. Master's student at University of Zurich, Switzerland.
-- 👀 I’m interested in Big Data Processing, Serverless Architecture and Blockchains.
-- 🌱 I’m currently learning IaC, Terraform/AWS CDK, K8's. Hashicorp Terraform Associate Certified.
-- 💞️ I’m looking to collaborate on cloud data operations project.
+- 👀 I’m interested in Big Data Processing, Serverless Architecture and Graph Analytics.
+- 🌱 I’m currently learning IaC, Terraform/CDK, K8's. Hashicorp Terraform Associate Certified.
+- 💞️ I’m looking to collaborate on cloud data project.
 - 📫 ankan0011@live.com/Discord : Ankan#7406 
 
 <!---
